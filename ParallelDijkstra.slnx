@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ParallelDijkstra/ParallelDijkstra.vcxproj" Id="a50a969b-adbd-4798-849d-9e91e5a5c4f4" />
+</Solution>

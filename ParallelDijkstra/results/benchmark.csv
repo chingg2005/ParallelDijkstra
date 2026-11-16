@@ -1,0 +1,2 @@
+mode,n,processes,seed,density,sequential_s,mpi_s,speedup,efficiency_percent,verified
+small,5,1,12345,0.02,1.44e-05,3.85000003e-05,0.374025971,37.4025971,1
